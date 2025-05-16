@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JARDIM SELVAGEM/provocações.md",
+                "file": "Relatorio_Amanda_Vault.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "provocações"
+              "title": "Relatorio_Amanda_Vault"
             }
           }
         ]
@@ -160,5 +160,8 @@
     }
   },
   "active": "b17987545857210c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "JARDIM SELVAGEM/provocações.md",
+    "Relatorio_Amanda_Vault.md"
+  ]
 }
